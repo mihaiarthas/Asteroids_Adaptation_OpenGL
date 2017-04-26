@@ -1,0 +1,18 @@
+﻿  main.cpp
+e:\projects\visual\opengl\opengl\main.cpp(27): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+e:\projects\visual\opengl\opengl\main.cpp(31): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+e:\projects\visual\opengl\opengl\main.cpp(34): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+e:\projects\visual\opengl\opengl\main.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\projects\visual\opengl\opengl\main.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\projects\visual\opengl\opengl\main.cpp(99): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+e:\projects\visual\opengl\opengl\main.cpp(105): warning C4018: '<': signed/unsigned mismatch
+e:\projects\visual\opengl\opengl\main.cpp(118): warning C4018: '<': signed/unsigned mismatch
+e:\projects\visual\opengl\opengl\main.cpp(138): warning C4018: '<': signed/unsigned mismatch
+e:\projects\visual\opengl\opengl\main.cpp(147): warning C4018: '<': signed/unsigned mismatch
+e:\projects\visual\opengl\opengl\main.cpp(152): warning C4018: '<': signed/unsigned mismatch
+e:\projects\visual\opengl\opengl\main.cpp(154): warning C4018: '<': signed/unsigned mismatch
+e:\projects\visual\opengl\opengl\main.cpp(168): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+e:\projects\visual\opengl\opengl\main.cpp(178): warning C4018: '<': signed/unsigned mismatch
+e:\projects\visual\opengl\opengl\main.cpp(225): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+  openGL.vcxproj -> E:\Projects\Visual\openGL\Debug\openGL.exe
+  openGL.vcxproj -> E:\Projects\Visual\openGL\Debug\openGL.pdb (Partial PDB)
